@@ -1,3 +1,4 @@
+![alt](images/header.png)
 
 # How to use ChatGPT with Python 🤖🐍
 
