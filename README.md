@@ -1,6 +1,6 @@
 ![alt](images/header.png)
 
-# How to use ChatGPT with Python 🤖🐍
+# How to use ChatGPT APIs in Python 🤖🐍
 
 *Hey, I am on [LinkedIn](https://www.linkedin.com/in/francesco-saverio-zuppichini-94659a150/) come and say hi 👋*
 
