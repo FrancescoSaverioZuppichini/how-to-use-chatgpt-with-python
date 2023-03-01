@@ -1,7 +1,7 @@
 
 # How to use ChatGPT with Python 🤖🐍
 
-*Hey, I am on [LinkedIn](https://www.linkedin.com/in/francesco-saverio-zuppichini-94659a150/) come and say hi 👋
+*Hey, I am on [LinkedIn](https://www.linkedin.com/in/francesco-saverio-zuppichini-94659a150/) come and say hi 👋*
 
 [OpenAI ChatGPT](https://openai.com/blog/chatgpt) APIs are out! They open a new endless possibilities. Today we're going to see how to use them in Python
 
